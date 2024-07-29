@@ -1,0 +1,24 @@
+有線模式 Wire Mode
+
+1. 插線後自動開始替電池充電。
+   Plug the cable and the battery will start charging.
+2. 充電時充電指示燈亮起，充飽後熄滅。
+   Charging indicator on ESC lights up when charging, off when it's fully charged.
+3. 有線模式下支援VIA編輯鍵值。
+   Available for configurating on VIA.
+
+-
+
+無線模式 Wireless Mode
+
+持續按壓在Spacebar旁的開關兩秒來開啟無線模式。
+Press and hold the switch on right of Spacebar key for 2 seconds to turn on wireless mode.
+
+-
+
+其它指令 Commands
+
+鎖定模式 Lock Mode: LShift + RShift + L
+電池電量 Battery Level(available in Win10 after 1903 version): LShift + RShift + V
+USB/BT裝置間切換 Toggle Between USB Mode & BLE Mode: LShift + RShift + B
+藍牙重置 Module Reset Command: LShift + RShift + R
