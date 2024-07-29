@@ -6,7 +6,7 @@ This QMK firmware is compatible with CA66 R3.
 
 Keyboard Maintainer: Play Keyboard   
 Hardware Supported: CA66 R3
-Hardware Availability: [Play Keyboard](http://play-keyboard.store/)  
+Hardware Availability: [Play Keyboard](https://www.play-keyboard.store/collections/group-buys/products/ca66-keyboard-kit-round-3)  
 
 
 Make example for this keyboard (after setting up your build environment):
